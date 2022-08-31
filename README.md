@@ -7,7 +7,10 @@ new ideas, and field skills. In continuous thirst for opportunities to
 develop and enhance professional and soft skills.
 
 
-##
+## 
+
+ <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=ndilhara&show_icons=true&theme=tokyonight"/>
+ <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndilhara&layout=compact"/>
 
 <!--
 **ndilhara/ndilhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,17 +27,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <p >
+ 
 
-   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ndilhara&show_icons=true&theme=tokyonight"/>
-   <img align="left"   width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndilhara&layout=compact"/>
-   <br>
-   
-</p>
-##
-<br>
 
-## 🚀 Languages and Tools:
+## 🚀 Interested Languages and Tools:
 
 
 
@@ -57,9 +53,8 @@ Here are some ideas to get you started:
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/subham-raoniar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/nadun-dilhara-189894180/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/ndilhara/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.facebook.com/nadun.dilhara.399"><img src="<img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>"/></a>
 
 </p>
