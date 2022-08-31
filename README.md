@@ -14,17 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
+<p align="left">
 
-   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ndilhara&show_icons=true&theme=tokyonight"/>
-   <img align="left"   width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndilhara&layout=compact"/>
+   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ndilhara&show_icons=true&theme=tokyonight">
+   <img align="left"   width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndilhara&layout=compact">
 
 </p>
 <p>
 <br/>
 <br/>
-  
-## 🚀 Languages and Tools:
+<h> </h>## 🚀 Languages and Tools:
 
 </p>
 
