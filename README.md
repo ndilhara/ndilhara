@@ -40,14 +40,13 @@ Here are some ideas to get you started:
   
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"/>
 <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
 <img src="https://img.icons8.com/color/48/000000/pandas.png"/>
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img width="48" height="48" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+<img width="48" height="48" src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png"/>
   
 </p>
 
