@@ -1,5 +1,14 @@
 # Hi there, I'm Nadun Dilhara 👋
 
+Final Year Undergraduate and
+a young passionate individual who is enthusiastic about machine
+learning and AI, programming, cutting edge technologies, discovering
+new ideas, and field skills. In continuous thirst for opportunities to
+develop and enhance professional and soft skills.
+
+
+##
+
 <!--
 **ndilhara/ndilhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +23,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <p align="left">
 
    <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ndilhara&show_icons=true&theme=tokyonight">
    <img align="left"   width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndilhara&layout=compact">
+   <br>
 </p>
-
+<br>
 
 ## 🚀 Languages and Tools:
 
