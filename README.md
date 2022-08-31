@@ -9,7 +9,7 @@ new ideas, and field skills.
 ## 
 
  <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=ndilhara&show_icons=true&theme=tokyonight"/>
- <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndilhara&layout=compact"/>
+ <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact"/>
 
 <!--
 **ndilhara/ndilhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
