@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 
 <a href = "https://www.linkedin.com/in/nadun-dilhara-189894180/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/ndilhara/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/nadun.dilhara.399"><img src="<img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>"/></a>
+<a href = "https://www.facebook.com/nadun.dilhara.399"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 
 </p>
