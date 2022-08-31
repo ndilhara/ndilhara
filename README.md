@@ -3,8 +3,7 @@
 Final Year Undergraduate and
 a young passionate individual who is enthusiastic about machine
 learning and AI, programming, cutting edge technologies, discovering
-new ideas, and field skills. In continuous thirst for opportunities to
-develop and enhance professional and soft skills.
+new ideas, and field skills. 
 
 
 ## 
